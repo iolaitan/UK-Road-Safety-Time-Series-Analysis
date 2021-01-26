@@ -10,7 +10,4 @@ The data can be found on the [Department of Transport website (https://www.gov.u
 TBC
 
 ## Detailed Time Series Analysis and Modelling using ARIMA
-
-Analysis in Python: (https://github.com/iolaitan/sharing-github/blob/main/UK%20Road%20Safety%20Time%20Series%20Forecast.pdf).
-
-
+Time Series, ARIMA, ARIMAX Analysis in Python: [PDF File] (UK-Road-Safety-Time-Series-Forecast.pdf)
