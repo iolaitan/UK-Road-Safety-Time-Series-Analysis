@@ -1,2 +1,2 @@
-# sharing-github
-Practice projects I have completed
+# projects-github
+Projects I have completed
