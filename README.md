@@ -5,3 +5,10 @@ This repository includes analysis on road traffic accidents occurring in the UK 
 
 The data can be found on the [Department of Transport website (https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
 
+## Exploratory Time Series Analysis
+
+TBC
+
+## Detailed Time Series Analysis and Modelling using ARIMA
+
+Analysis in Python
